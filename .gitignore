@@ -17,6 +17,7 @@
 
 
 *.xml
+*.pbf
 
 derivative
 audio_master
