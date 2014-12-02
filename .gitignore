@@ -15,6 +15,9 @@
 *.mp3
 *.wma
 
+
+*.xml
+
 derivative
 audio_master
 video_master

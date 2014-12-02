@@ -9,17 +9,10 @@
     },
     "main": "index.js",
     "engines": [
-        "node >= 0.3.6"
+        "node <= 0.10.33"
     ],
-    "keywords":[
-    ],
-    "devDependencies": {
-        "osmtogeojson":"*"
-    },
-    "scripts": {
-        "start": "node index.js"
-    },
-    "bin": {
+    "dependencies": {
+        "xml-stream": "0.4.*"
     },
     "license": "MIT"
 }
