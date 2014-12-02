@@ -1,0 +1,22 @@
+#don't commit the media files
+
+*.wmv
+*.mpg
+*.mpeg
+*.mp4
+*.mov
+*.flv
+*.avi
+*.ogv
+*.ogg
+*.webm
+
+*.wav
+*.mp3
+*.wma
+
+derivative
+audio_master
+video_master
+
+coffeejs
