@@ -1,3 +1,9 @@
+
+### This library has been deprecated for [somehow-maps](https://github.com/spencermountain/somehow-maps)
+thanks
+
+---
+
 OpenStreetMaps is the coolest project on the web, with the most tangled, but well-meaning apis ever.
 
 So, doing data-queries on a dump is the lonesome place you've found yourself.
